@@ -10,5 +10,8 @@
     "gaetano"
   ],
   "author": "gaetano",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/tano27/Thanos-first-project"
+  }
 }
